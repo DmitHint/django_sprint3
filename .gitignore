@@ -147,3 +147,7 @@ dmypy.json
 
 # папки со статикой и медиа
 media/
+
+static/
+static_dev/
+html/
